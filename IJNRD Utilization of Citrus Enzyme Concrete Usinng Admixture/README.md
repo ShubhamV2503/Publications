@@ -1,14 +1,5 @@
-# Utilization-of-Citrus-Enzyme-in-concrete-as-an-Admixture
+## Utilization-of-Citrus-Enzyme-in-concrete-as-an-Admixture
 
-The quality of the concrete is determined by the materials of concrete preparation. In order to make
-concrete with high compression strength and has a certain concrete specification cannot be obtained
-simply by mixing Portland cement or other types of coarse aggregate, fine aggregate, and water. But it is
-necessary to also control the quality of the concrete mix. Improving the quality of the concrete mix will
-increase the compression strength is generated.
+The rising standard of living for the masses has resulted in rapid boost in the construction and infrastructure sector. As a result, the consumption of concrete has been increasing. To meet the various requirements of the structure, admixtures and plasticizers are added to concrete to enhance its conventional properties. But the production of admixtures involves various chemicals which in return deteriorate the environment. At the same time, the increasing population has resulted in higher demand of edible food items which primarily include fruits and vegetables. The higher the consumption, higher is the waste generated. The waste, being organic in nature, leads to soil and water pollution and also produce greenhouse gases. Also, it becomes difficult to transport and handle the waste. Thus, to produce an environment friendly alternative to the admixtures and to utilize the organic waste – fruits, can be used to produce biological enzymes. This project deals with the production and application of biological enzymes as an admixture in concrete. Further, the optimum dosage required in order to achieve quality workable concrete is also found out by testing different dosages of bio - enzyme admixture with concrete., Slump Test of concrete. By adding different dosages of Bio-enzyme to samples, we get compressive strength of every sample. By plotting a graph of Dosage of Bio- enzyme v/s Compressive strength, we can determine the maximum compressive strength of concrete having optimum dosage of Bio-enzyme. The results would clear whether the use of bio- enzyme increases the compressive strength of concrete or not. An increase in compressive strength of concrete has been found with the use optimum dosage of bio-enzyme
 
-Mixed concrete technology is currently also developing rapidly, many other added material application
-technologies to produce concrete with the desired characteristics. One way to improve the quality of the
-concrete mix is to use the added material, either a chemical such as entraining admixture, reducing water
-in the form of synthetic or organic. On this paper, we would like to introduce our research on improving
-concrete quality with green technology using bio enzyme, which is not covered yet in current
-classification A to F of concrete chemical admixtures used
+Link: https://www.ijnrd.org/viewpaperforall.php?paper=IJNRD2310002
